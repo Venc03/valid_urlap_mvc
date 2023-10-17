@@ -1,0 +1,11 @@
+.valid{
+    color: lime;
+}
+
+.invalid{
+    color: red;
+}
+
+.elrejt{
+    display: none;
+}
